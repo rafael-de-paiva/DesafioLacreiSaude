@@ -1,5 +1,9 @@
 name: Cypress Web Tests
 on:
+  push:
+    branches:
+      - main
+      - teste_pipeline
   pull_request:
     branches:
       - main
