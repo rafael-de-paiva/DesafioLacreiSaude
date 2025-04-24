@@ -1,9 +1,5 @@
 name: Cypress Web Tests
 on:
-  push:
-    branches:
-      - main
-      - teste_pipeline
   pull_request:
     branches:
       - main
@@ -20,7 +16,7 @@ jobs:
         uses: cypress-io/github-action@v6
 
       - name: Generate HTML report
-      - run: node generate-html-report.js
+        run: node generate-html-report.js
 
       - name: Upload report
         uses: actions/upload-artifact@v3
