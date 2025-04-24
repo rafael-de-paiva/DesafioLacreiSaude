@@ -46,6 +46,7 @@ Verificar o processo de reset de senha sob diferentes condições.
 - O usuario deve verificar o email inserido via inbox para prosseguir com o reset.
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Reset1.png)
 ---
 
@@ -78,6 +79,7 @@ Verificar o processo de reset de senha sob diferentes condições.
 - O usuario deve preencher o campo com um email ja cadastrado para que possa prosseguir
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Reset2.png)
 ---
 
@@ -114,4 +116,5 @@ Verificar o processo de reset de senha sob diferentes condições.
 - Email: pessoatester1@gmail.com
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Reset3.png)

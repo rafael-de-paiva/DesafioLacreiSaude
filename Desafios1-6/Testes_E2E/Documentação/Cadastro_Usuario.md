@@ -52,6 +52,7 @@ Verificar o processo de cadastro de usuario sob diferentes condições.
 - Confirme sua senha: @Bcd1234
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Cadastro1.png)
 ---
 
@@ -94,6 +95,7 @@ Verificar o processo de cadastro de usuario sob diferentes condições.
 - Confirme sua senha: @Bcd1234
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Cadastro2.png)
 ---
 
@@ -131,4 +133,5 @@ Verificar o processo de cadastro de usuario sob diferentes condições.
 - O usuario precisa inserir os valores novamente para que sera redirecionado corretamente.
 
 **📸 Evidência(s):**
+
 - [Vídeo](https://youtube.com/shorts/BAskgDs0U1A?feature=share)

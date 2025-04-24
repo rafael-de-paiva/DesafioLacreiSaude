@@ -48,6 +48,7 @@ Validar a busca de um profissional de saúde sob diferentes condições.
 - Campo de busca: NaN
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Busca1.png)
 ---
 
@@ -85,6 +86,7 @@ Validar a busca de um profissional de saúde sob diferentes condições.
 - Campo de busca: Otorrino
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Busca2.png)
 ---
 
@@ -124,4 +126,5 @@ Validar a busca de um profissional de saúde sob diferentes condições.
 - Celular: (99) 9 9999-9999
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Busca3.png)
