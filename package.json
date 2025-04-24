@@ -1,0 +1,30 @@
+{
+  "name": "desafiolacreisaude",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "report": "node generate-html-report.js",
+    "test:report": "cypress run && node generate-html-report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.4",
+    "@faker-js/faker": "^9.7.0",
+    "cypress": "^14.3.2"
+  },
+  "devDependencies": {
+    "cucumber-html-reporter": "^7.2.0",
+    "fs-extra": "^11.3.0"  
+  },
+  "cypress-cucumber-preprocessor": {
+    "json": {
+      "enabled": true,
+      "output": "cypress/report/report-json.json"
+    }
+  }
+}
