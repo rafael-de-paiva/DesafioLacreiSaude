@@ -47,6 +47,7 @@ Verificar o processo de edição de perfil sob diferentes condições.
 - Data de nascimento: 01/01/2000
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Editar1.png)
 ---
 
@@ -86,7 +87,9 @@ Verificar o processo de edição de perfil sob diferentes condições.
 - Data de nascimento: 01/01/1000
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Editar2.png)
+
 - [Vídeo](https://youtube.com/shorts/4ElWzKUpz_8?feature=share)
 ---
 
@@ -126,4 +129,5 @@ Verificar o processo de edição de perfil sob diferentes condições.
 - Data de nascimento: dd/mm/aaaa
 
 **📸 Evidência(s):**
+
 ![Imagem](../Evidencias/Editar3.png)

@@ -72,6 +72,7 @@ Mesmo com alta conformidade técnica, recomenda-se:
 ## **5. Evidências**
 
 🖼️ **Captura da aba Lighthouse (pontuação 100):**  
+
 ![Relatório Lighthouse1](./Evidencias%20e%20Comprovações/Acessibilidade1.png)
 ![Relatório Lighthouse1](./Evidencias%20e%20Comprovações/Acessibilidade2.png)
 ![Relatório Lighthouse1](./Evidencias%20e%20Comprovações/Acessibilidade3.png)
