@@ -8,7 +8,7 @@ module.exports = defineConfig({
   e2e: {
     defaultCommandTimeout: 10000,
     baseUrl: "https://paciente-staging.lacreisaude.com.br",
-    specPattern: "**/*.feature",
+    specPattern: "cypress/e2e/features/**/*.feature",
     screenshotOnRunFailure: false,
 
     setupNodeEvents: async (on, config) => {
